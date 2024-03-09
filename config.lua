@@ -48,6 +48,7 @@ Config.Locations = {
     },
     ['armory'] = {
         [1] = vector3(482.42, -995.16, 30.69),
+        [2] = vector3(1838.87, 3686.68, 34.19),
     },
     ['trash'] = {
         [1] = vector3(439.0907, -976.746, 30.776),
@@ -63,7 +64,7 @@ Config.Locations = {
     ['stations'] = {
         [1] = { label = 'Police Station', coords = vector4(428.23, -984.28, 29.76, 3.5) },
         [2] = { label = 'Prison', coords = vector4(1845.903, 2585.873, 45.672, 272.249) },
-        [3] = { label = 'Police Station Paleto', coords = vector4(-451.55, 6014.25, 31.716, 223.81) },
+        [3] = { label = 'BCSO', coords = vector4(1841.33, 3680.12, 34.19, 223.81) },
     },
 }
 
